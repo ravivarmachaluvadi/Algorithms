@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Find count of distinct elements in every sub-array of size k";
+    String message = "Find Minimum and Maximum element in an array using minimum comparisons";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
