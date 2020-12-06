@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Print all shortest routes in a rectangular grid";
+    String message = "Huffman Coding Compression Algorithm";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
@@ -36,3 +36,5 @@ class RemoveWhiteSpacesConnectWords {
     System.out.println("Message: " + message);
   }
 }
+
+
