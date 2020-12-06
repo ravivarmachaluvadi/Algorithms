@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Ternary Search vs Binary search";
+    String message = "Job Sequencing Problem with Deadlines";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
