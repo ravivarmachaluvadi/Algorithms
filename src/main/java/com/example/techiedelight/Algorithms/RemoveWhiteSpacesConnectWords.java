@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Sort an array based on order defined by another array";
+    String message = "Find number of 1’s in a sorted binary array";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
