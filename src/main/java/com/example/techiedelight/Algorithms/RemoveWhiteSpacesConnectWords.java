@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Print all paths from root to leaf nodes in a binary tree";
+    String message = "All-Pairs Shortest Paths – Floyd Warshall Algorithm";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
