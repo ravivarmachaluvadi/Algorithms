@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Find number of 1’s in a sorted binary array";
+    String message = "Find maximum profit earned from at most K stock transactions";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
