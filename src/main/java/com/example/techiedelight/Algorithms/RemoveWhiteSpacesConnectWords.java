@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Sort a K-Sorted Array";
+    String message = "Sort an array based on order defined by another array";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
