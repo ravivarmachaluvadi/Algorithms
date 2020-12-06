@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Huffman Coding Compression Algorithm";
+    String message = "Print all paths from root to leaf nodes in a binary tree";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
