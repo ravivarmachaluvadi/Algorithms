@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Check if a binary tree is a min-heap or not";
+    String message = "Set next pointer to inorder successor of all nodes in binary tree";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
