@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Set next pointer to inorder successor of all nodes in binary tree";
+    String message = "Construct a Height-Balanced BST from a Sorted Doubly Linked List";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
