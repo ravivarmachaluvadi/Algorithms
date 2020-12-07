@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Job Sequencing Problem with Deadlines";
+    String message = "Check if a binary tree is a min-heap or not";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
