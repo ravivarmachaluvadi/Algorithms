@@ -1,10 +1,13 @@
 package com.example.techiedelight.Algorithms;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+
 class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Construct a Height-Balanced BST from a Sorted Doubly Linked List";
+    String message = "Find Cost of Shortest Path in DAG using one pass of Bellman-Ford";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
@@ -36,5 +39,6 @@ class RemoveWhiteSpacesConnectWords {
     System.out.println("Message: " + message);
   }
 }
+
 
 
