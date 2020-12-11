@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Group Anagrams Together from given List of Words";
+    String message = "Reverse text without reversing the individual words";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
