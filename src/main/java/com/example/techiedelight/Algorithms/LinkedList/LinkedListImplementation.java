@@ -51,11 +51,59 @@ class LinkedListImplementation
 class Node
 {
     int data;
-    Node next;
+    String datas;
+    Node next, child , prev,down,random,left,right,mid;
 
+    // Constructor
+    Node(String str)
+    {
+        this.datas = str;
+        this.next = null;
+    }
+
+    Node(int data, Node next, Node child) {
+        this.data = data;
+        this.next = next;
+        this.child = child;
+    }
     Node(int data) {
         this.data = data;
         this.next = null;
+    }
+
+    Node() {
+        this.data = data;
+        this.next = null;
+    }
+
+    Node(int data, Node next) {
+        this.data = data;
+        this.next = next;
+    }
+
+    // Helper function to print linked list starting from current node
+    public void print()
+    {
+        Node ptr = this;
+        while (ptr != null) {
+            System.out.print(ptr.data + " -> ");
+            ptr = ptr.next;
+        }
+        System.out.println("null");
+    }
+}
+
+
+
+// A linked list node
+class NodeNext
+{
+    int data;
+    NodeNext next;
+
+    NodeNext(int data, NodeNext next) {
+        this.data = data;
+        this.next = next;
     }
 }
 

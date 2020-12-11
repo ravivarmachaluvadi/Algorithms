@@ -7,7 +7,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Find Cost of Shortest Path in DAG using one pass of Bellman-Ford";
+    String message = "Reverse specified portion of a Linked List";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
