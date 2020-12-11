@@ -1,13 +1,10 @@
 package com.example.techiedelight.Algorithms;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-
 class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Generate Binary Numbers Between 1 to N using Queue";
+    String message = "Group Anagrams Together from given List of Words";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
