@@ -7,7 +7,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Reverse specified portion of a Linked List";
+    String message = "Find shortest route in a device to construct the given string";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
@@ -39,6 +39,7 @@ class RemoveWhiteSpacesConnectWords {
     System.out.println("Message: " + message);
   }
 }
+
 
 
 
