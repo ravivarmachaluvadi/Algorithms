@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Reverse text without reversing the individual words";
+    String message = "Find all words matching a pattern in the given dictionary";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
