@@ -7,7 +7,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Find shortest route in a device to construct the given string";
+    String message = "Generate Binary Numbers Between 1 to N using Queue";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
