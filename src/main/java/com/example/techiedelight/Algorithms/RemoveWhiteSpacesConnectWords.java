@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Find all words matching a pattern in the given dictionary";
+    String message = "Determine if two integers are equal without using comparison and arithmetic operators";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
