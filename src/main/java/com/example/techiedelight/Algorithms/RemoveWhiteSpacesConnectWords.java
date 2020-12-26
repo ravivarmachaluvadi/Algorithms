@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Determine if two integers are equal without using comparison and arithmetic operators";
+    String message = "Find Minimum Depth of a Binary Tree";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();
