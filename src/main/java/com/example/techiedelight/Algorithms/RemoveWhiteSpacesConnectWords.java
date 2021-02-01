@@ -4,7 +4,7 @@ class RemoveWhiteSpacesConnectWords {
   public static void main(String[] args) {
 
     // create a string
-    String message = "Find Minimum Depth of a Binary Tree";
+    String message = "Return K’th largest element in a stream";
 
     // stores each characters to a char array
     char[] charArray = message.toCharArray();

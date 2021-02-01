@@ -65,4 +65,9 @@ class NodeData
     NodeData(int data) {
         this.data = data;
     }
+
+    // Utility function to check if a given node is a leaf node
+    boolean isLeaf() {
+        return this.left == null && this.right == null;
+    }
 }
