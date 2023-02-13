@@ -9,8 +9,6 @@ public class Main1 {
         int[] arr= {2,3,5};
         List<List<Integer>> ansList= new ArrayList<>();
         isTargetSumPossible(arr,8,ansList,new ArrayList<>());
-
-
         ansList.forEach(System.out::println);
         }
 
